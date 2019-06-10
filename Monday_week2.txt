@@ -1,0 +1,4 @@
+Captains Log June 10, 2019
+
+
+We learned the basics of HTML aka HyperText Markup Language. We used some basic tags and such.
