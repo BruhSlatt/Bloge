@@ -1,0 +1,1 @@
+  let percent = (perc/100)
